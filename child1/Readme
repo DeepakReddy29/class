@@ -1,0 +1,18 @@
+Tools:
+
+1 MySQL Credentials:
+             mysql -u root -p
+ password :  Root123$
+  
+2 Postman
+3 Chrome
+4 Vs Code (with c and c++ plugin)
+5 MySQL Workbench
+6 GO 
+7. C shell (To acess c shell enter csh in terminal)
+8. Libre Office
+9. Notepad++
+10.Monaco editor
+	To start monaco editor perform the following steps in terminal
+	cd ~/monaco-editor/
+	npm run simpleserver

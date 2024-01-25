@@ -1,0 +1,19 @@
+<library>
+	<book>
+		<title> THe Hadoop Definitive Guide </title>
+		<author> Ria  </author>
+		<price> 800 </price>
+	</book>
+	<book>
+		<title> Learning Spark </title>
+		<author> Brooke </author>
+		<price> 700 </price>
+		
+	</book>
+		<book>
+		<title> REbel Star </title>
+		<author> Deepak  </author>
+		<price> 1300 </price>
+	</book>
+	
+</library>

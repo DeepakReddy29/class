@@ -1,0 +1,5 @@
+Hello this is Spark and Aws Batch
+learning sparkkk using Python
+python is dynamically typed language 
+high level language
+
